@@ -1,4 +1,4 @@
-## Hi there, I'm [Cristian Tamez] 👋
+## Hi there, I'm Cristian Tamez 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
@@ -26,15 +26,15 @@ When I’m not working with data, I enjoy playing football, or soccer. I played 
       
 ## 🔭 What I'm Currently Working On 
 
-- **F1 Telemetry DashBoard:** [Given the limited free live telemetry data provided by Formula 1 on race days, this dashboard derives additional variables and individual car behavior, presenting them visually with real-time car behavior and tire movement.]
-- **Email Product Order Reader:** [Labels emails received by the sales team and extracts product order data from attached PDFs using computer vision techniques, automatically populating an Excel sheet of pending purchase orders to help ensure no orders are missed.(Private)]
+- **F1 Telemetry DashBoard:** Given the limited free live telemetry data provided by Formula 1 on race days, this dashboard derives additional variables and individual car behavior, presenting them visually with real-time car behavior and tire movement.
+- **Email Product Order Reader:** Labels emails received by the sales team and extracts product order data from attached PDFs using computer vision techniques, automatically populating an Excel sheet of pending purchase orders to help ensure no orders are missed.(Private)
 
 
 ## 🌱 Currently Learning
-- [Strengthening my proficiency in via courses in SQL and Power BI for data analysis and visualization]
-- [Completing the IBM Data Scientist Professional Certificate (12-course series, as of MAY i am halfway)]
-- [Reading Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurélien Géron to deepen my understanding of machine learning frameworks and model development]
-- [Re-reading Data Science from Scratch by Joel Grus to reinforce core fundamentals and intuition]
+- Strengthening my proficiency in via courses in SQL and Power BI for data analysis and visualization
+- Completing the IBM Data Scientist Professional Certificate (12-course series, as of MAY i am halfway)
+- Reading Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurélien Géron to deepen my understanding of machine learning frameworks and model development
+- Re-reading Data Science from Scratch by Joel Grus to reinforce core fundamentals and intuition
 
 ## 🛠️ Technical Skillset
 
