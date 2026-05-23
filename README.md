@@ -10,6 +10,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/cristian-tamez-497573230/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:ctamez667@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="https://docs.google.com/document/d/1oHi1APDOnpuZp6i_R6Q4M7Ie1yVUWfGk/edit?usp=sharing&ouid=109189586981098039699&rtpof=true&sd=true"><img src="https://img.shields.io/badge/Resume-View-orange?style=for-the-badge&logo=googledocs"></a>
 </p>
 
 ## 🚀 About Me 
