@@ -1,4 +1,4 @@
-## Hi there, I'm Cristian Tamez 👋
+## Hello, I'm Cristian Tamez 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
