@@ -1,4 +1,4 @@
-## Hi there, I'm [Your Name] 👋
+## Hi there, I'm [Cristian Tamez] 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
@@ -8,43 +8,41 @@
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/cristian-tamez-497573230/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:ctamez667@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+I’m a data science student at University of Texas at El Paso pursuing a bachelor’s degree in Computer Science. I’m passionate about data and making sense of unintelligible datasets, especially through deploying prediction models to forecast the behavior of future data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+My focus is on machine learning and finding the correct models and algorithms to employ on datasets. I also have hands-on experience with computer vision using OpenCV, MediaPipe, scikit-learn, and traditional NumPy-based image array manipulations, where I’ve worked on image processing, segmentation, and feature extraction tasks. In addition, I have solid experience creating dashboards and providing clear, comprehensible visualizations, allowing even non-technical individuals to gain insights from the data I work with.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+I also take a lot of enjoyment in attending workshops, completing online courses, and going to research presentations and seminars. When I’m not reading technical books—especially those published by O’Reilly, which I particularly enjoy—I like reading existentialist philosophy. I admire the clarity and discipline it took philosophers to develop their theories and views, and that appreciation for deliberate thought is one reason I keep my social media usage minimal and intentional.
+
+When I’m not working with data, I enjoy playing football, or soccer. I played at a very competitive level as a child, and my love for the sport never faded. I now play upwards of three days a week across various teams and leagues. I also devote a deservedly large amount of time to my golden retriever, making sure he is happy and tired at the end of every day when possible. I’ve always been drawn to the water and anything associated with it, so I take every opportunity to fish, swim, snorkel, or cliff dive.
+
+
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **F1 Telemetry DashBoard:** [Given the limited free live telemetry data provided by Formula 1 on race days, this dashboard derives additional variables and individual car behavior, presenting them visually with real-time car behavior and tire movement.]
+- **Email Product Order Reader:** [Labels emails received by the sales team and extracts product order data from attached PDFs using computer vision techniques, automatically populating an Excel sheet of pending purchase orders to help ensure no orders are missed.(Private)]
 
-## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+## 🌱 Currently Learning
+- [Strengthening my proficiency in via courses in SQL and Power BI for data analysis and visualization]
+- [Completing the IBM Data Scientist Professional Certificate (12-course series, as of MAY i am halfway)]
+- [Reading Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurélien Géron to deepen my understanding of machine learning frameworks and model development]
+- [Re-reading Data Science from Scratch by Joel Grus to reinforce core fundamentals and intuition]
 
 ## 🛠️ Technical Skillset
-
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
 
 #### Data Analysis & Visualization
 <p>
   <!-- 💡 Go to Shields.io to create your own badges -->
   <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
   <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
 </p>
 
 #### Programming & Automation
